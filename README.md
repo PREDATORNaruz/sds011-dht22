@@ -1,11 +1,11 @@
 
 
 
-This Programm reads data from SDS011 and DHT22 Sensor , it will log the data in a csv file every 3 Minutes .
+This Programm reads data from SDS011 and DHT22 Sensors , it will log the data in a csv file every 3 Minutes .
 
 Please make sure to change your own File path ... 
 
-if not just do these commands on you Pi 
+if not just do these commands on your Pi 
 
 sudo mkdir /home/pi/Documents/embedded_sys_2
 
