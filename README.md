@@ -9,7 +9,7 @@ if not just do these commands on your Pi
 
 sudo mkdir /home/pi/Documents/embedded_sys_2
 
-gcc sensors.c -o sens 
+gcc sensors.c -o sens -lwiringPi
 
 ./sens to launch it 
 the csv file will be found there too . . .
